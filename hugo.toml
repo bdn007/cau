@@ -1,36 +1,23 @@
 baseURL = "http://example.org/"
 
-
-
 # Change the default theme to be use when building the site with Hugo
-
 theme = "LoveIt"
 
-
-
 # website title
-
-title = "My New Hugo Site"
-
-
+title = "Fat Cau's Site"
 
 # language code ["en", "zh-CN", "fr", "pl", ...]
-
 languageCode = "en"
 
 # language name ["English", "简体中文", "Français", "Polski", ...]
-
 languageName = "English"
 
 # whether to include Chinese/Japanese/Korean
-
 hasCJKLanguage = false
-
-
 
 # copyright description used only for seo schema
 
-copyright = ""
+copyright = "Cau"
 
 
 
@@ -376,7 +363,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 
       # URL of avatar shown in home page
 
-      avatarURL = "/images/avatar.png"
+      avatarURL = "./images/avatar.png"
 
       #  title shown in home page (HTML format is supported)
 
