@@ -151,7 +151,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 
   [params.author]
 
-    name = "xxxx"
+    name = "Cau"
 
     email = ""
 
