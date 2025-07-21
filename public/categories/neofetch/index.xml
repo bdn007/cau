@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Neofetch on Fat Cau&#39;s Site</title>
+    <link>http://localhost:1313/categories/neofetch/</link>
+    <description>Recent content in Neofetch on Fat Cau&#39;s Site</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>Cau</copyright>
+    <lastBuildDate>Sat, 19 Jul 2025 21:23:00 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/neofetch/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neofetch vs Fastfetch</title>
+      <link>http://localhost:1313/neofetch/</link>
+      <pubDate>Sat, 19 Jul 2025 20:14:13 +0300</pubDate>
+      <guid>http://localhost:1313/neofetch/</guid>
+      <description>&lt;p&gt;I am using an old iMac, very old indeed. This iMac13,1 was discontinued in Sep 2013, so it is at least 12 years old. It stopped working before COVID time, I had to revive it by installing Ubuntu.&lt;/p&gt;&#xA;&lt;p&gt;Today I learned two new commands, they are &lt;code&gt;neofetch&lt;/code&gt; and &lt;code&gt;fastfetch&lt;/code&gt;, the &lt;code&gt;neofetch&lt;/code&gt; looks better in my opinion, what do you think?&lt;/p&gt;&#xA;&lt;p&gt;&lt;img&#xA;        class=&#34;lazyload&#34;&#xA;        src=&#34;http://localhost:1313/svg/loading.min.svg&#34;&#xA;        data-src=&#34;http://localhost:1313/neofetch/neofetch.png&#34;&#xA;        data-srcset=&#34;http://localhost:1313/neofetch/neofetch.png, http://localhost:1313/neofetch/neofetch.png 1.5x, http://localhost:1313/neofetch/neofetch.png 2x&#34;&#xA;        data-sizes=&#34;auto&#34;&#xA;        alt=&#34;/neofetch/neofetch.png&#34;&#xA;        title=&#34;neofetch.png&#34; width=&#34;887&#34; height=&#34;488&#34; /&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img&#xA;        class=&#34;lazyload&#34;&#xA;        src=&#34;http://localhost:1313/svg/loading.min.svg&#34;&#xA;        data-src=&#34;http://localhost:1313/neofetch/fastfetch.png&#34;&#xA;        data-srcset=&#34;http://localhost:1313/neofetch/fastfetch.png, http://localhost:1313/neofetch/fastfetch.png 1.5x, http://localhost:1313/neofetch/fastfetch.png 2x&#34;&#xA;        data-sizes=&#34;auto&#34;&#xA;        alt=&#34;/neofetch/fastfetch.png&#34;&#xA;        title=&#34;festfetch&#34; width=&#34;1041&#34; height=&#34;647&#34; /&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

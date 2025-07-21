@@ -7,6 +7,28 @@
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>Cau</copyright>
+    <lastBuildDate>Fri, 04 Jul 2025 19:23:27 +0300</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lexidy</title>
+      <link>http://localhost:1313/tags/lexidy/</link>
+      <pubDate>Fri, 04 Jul 2025 19:23:27 +0300</pubDate>
+      <guid>http://localhost:1313/tags/lexidy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>NLV</title>
+      <link>http://localhost:1313/tags/nlv/</link>
+      <pubDate>Fri, 04 Jul 2025 19:23:27 +0300</pubDate>
+      <guid>http://localhost:1313/tags/nlv/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Non Lucrative Visa</title>
+      <link>http://localhost:1313/tags/non-lucrative-visa/</link>
+      <pubDate>Fri, 04 Jul 2025 19:23:27 +0300</pubDate>
+      <guid>http://localhost:1313/tags/non-lucrative-visa/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
