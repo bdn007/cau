@@ -16,10 +16,12 @@ languageName = "English"
 hasCJKLanguage = false
 
 # copyright description used only for seo schema
-
 copyright = "Cau"
 
-
+# change the location of the image cache to the cacheDir
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
 
 # whether to use robots.txt
 
